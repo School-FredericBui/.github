@@ -1,4 +1,4 @@
-Actualy i'm working on 2 frameworks at school : 
+Actualy, we are working on 2 frameworks at school : 
 - Angular
 - Symfony
 
