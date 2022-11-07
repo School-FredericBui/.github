@@ -1,4 +1,6 @@
-## Hi there 👋
+Actualy i'm working on 2 frameworks at school : 
+- Angular
+- Symfony
 
 <!--
 
