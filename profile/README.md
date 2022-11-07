@@ -1,6 +1,6 @@
 Since june 2022, i'm following a degree of digital projects manager with a web developpement speciality.
 
-Actualy, we are working on 2 frameworks at school : 
+Currently, we are working on 2 frameworks at school : 
 - Angular
 - Symfony
 
